@@ -21,7 +21,7 @@ This week I had the great pleasure of attending the `2025 PowerShell and DevOPs 
 
 This is a conference that spans 4 days and brings speakers and attendees in from all over for talks and presentations that include everything from face-melting 4 hour deep dives to life-changing 25 minute sessions.
 
-There's one common refrain that you'll here from veterans who've been to Summit before that deserves some explanation: "This is not a regular conference."
+There's one common refrain that you'll hear from veterans who've been to Summit before that deserves some explanation: "This is not a regular conference."
 
 So, why?
 
@@ -44,7 +44,7 @@ Ahh vendors.  Everyone loves vendors!  They make the world go around, and withou
 
 You won't find a lot of vendors at Summit.  A few carefully selected vendors have a low-key and intimate presence during the week.  These are trusted members of the tech community with genuinely useful products.
 
-Over all they are given a respectable amount of stage time to make their pitch for bettering your life, but for the most part they are simly there experienceing summit right along side us.
+Overall they are given a respectable amount of stage time to make their pitch for bettering your life, but for the most part they are simply there experiencing summit right along side us.
 
 ## Attendees
 
@@ -56,11 +56,11 @@ That's a big audience!  I have to imagine that it's easy to feel lost or overwhe
 
 ### The Summit Difference™️
 
-Then number of attendees at this conference is capped at `400`.  
-That's not a typo, I dind't miss a zero, `400`
+The number of attendees at this conference is capped at `400`.  
+That's not a typo, I didn't miss a zero, `400`
 This is a deliberate choice, once intended to keep a smaller more intimate setting.  You'll have the chance to hear some amazing talks at Summit, put on by some of the smartest cookies in the jar, but where the rubber can really meet the road for you is when you meet the presenter in the hallway between talks, or end up at the same table as them during a meal or while out for some liquid refreshment.
 
-It's not just the presenters either, your fellow attendees are out in the world making PowerShell micracles happen everyday, and they can't wait to tell you all about it.
+It's not just the presenters either, your fellow attendees are out in the world making PowerShell miracles happen everyday, and they can't wait to tell you all about it.
 
 You can learn so much at Summit, in a way that just doesn't scale with large crowds.
 
@@ -76,11 +76,11 @@ Slack.  The hotel lobby.  The hallway.  The meals.
 
 You're not just here at the same time as your fellow sumiteers, you're experiencing Summit WITH them.
 
-Wether it's helpful and inclusive group chat on slack, or just the many organic opprtunities for folks to make room for others or invite them to join in on what they're doing, you'll no doubt walk away with more new friendships than you can chake a stick at.
+Whether it's helpful and inclusive group chat on slack, or just the many organic opportunities for folks to make room for others or invite them to join in on what they're doing, you'll no doubt walk away with more new friendships than you can shake a stick at.
 
 To illustrate the feeling, i'll describe to you now the context in which I write this post.
 
-I'm in the airport waiting for my final flight of the day.  I'm only about 12 hours removed from the last few conversations I was having with my fellow Sumiteers.  Everytime someone walks toward where I'm sitting and typing away I briefly believe I'm going to look up and see a new friend, coming to have a conversation.  This is what my brain has gotten used to being the norm over the last 4 days, and it's clearly become muscle memory.
+I'm in the airport waiting for my final flight of the day.  I'm only about 12 hours removed from the last few conversations I was having with my fellow Sumiteers.  Every time someone walks toward where I'm sitting and typing away I briefly believe I'm going to look up and see a new friend, coming to have a conversation.  This is what my brain has gotten used to being the norm over the last 4 days, and it's clearly become muscle memory.
 
 ## Exciting Conclusion
 
