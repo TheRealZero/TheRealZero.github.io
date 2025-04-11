@@ -1,21 +1,6 @@
-title: "
-  ___ _   _               _     _         _                  
- |_ _| |_( )___    __ _  | |__ (_)_ __ __| |                 
-  | || __|// __|  / _` | | '_ \| | '__/ _` |                 
-  | || |_  \__ \ | (_| | | |_) | | | | (_| |_                
- |___|\__| |___/  \__,_| |_.__/|_|_|  \__,_( )               
-      (_) |_( )___    __ _   _ __ | | __ _ |/__   ___        
-      | | __|// __|  / _` | | '_ \| |/ _` | '_ \ / _ \       
-      | | |_  \__ \ | (_| | | |_) | | (_| | | | |  __/_      
-      |_|\__| |___/  \__,_| | .__/|_|\__,_|_| |_|\___( )     
-            _ _   _         |_|     ____  _     ___  |/___ _ 
-           (_) |_( )___     / \    | __ )| |   / _ \ / ___| |
-           | | __|// __|   / _ \   |  _ \| |  | | | | |  _| |
-           | | |_  \__ \  / ___ \  | |_) | |__| |_| | |_| |_|
-           |_|\__| |___/ /_/   \_\ |____/|_____\___/ \____(_)
-"
+title: "It's a Blog!"
 author: "Lucas Allman"
-description: "Yet another PowerShell blog." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "It's a bird, it's a plane, it's A BLOG!" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
