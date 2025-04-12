@@ -5,7 +5,7 @@ This week I had the great pleasure of attending the `2025 PowerShell and DevOPs 
 This is a conference that spans 4 days and brings speakers and attendees in from all over for talks and presentations that include everything from face-melting 4 hour deep dives to life-changing 25 minute sessions.
 
 There's one common refrain that you'll hear from veterans who've been to Summit before that deserves some explanation:  
-`This is not a regular conference.`
+**This is not a regular conference.**
 
 So, why?
 
@@ -116,7 +116,7 @@ And too everyone I made a connection with this weekend, `Asmar`, `Christian`, `B
 
 
 Call it a Global Summit.    
-Call it a game-changer.
+Call it a game-changer. 
 Call it an experience.  
 
 `But don't call it a conference.`
