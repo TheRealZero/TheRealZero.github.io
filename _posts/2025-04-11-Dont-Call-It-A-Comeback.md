@@ -119,7 +119,7 @@ And too everyone I made a connection with this weekend, `Asmar`, `Christian`, `B
 
 
 Call it a Global Summit.    
-Call it a game-changer. 
-Call it an experience.  
+Call it a game-changer.     
+Call it an experience.      
 
 **But don't call it a conference.**
