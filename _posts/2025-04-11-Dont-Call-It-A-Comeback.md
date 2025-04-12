@@ -69,7 +69,7 @@ To illustrate the feeling, i'll describe to you now the context in which I write
 
 I'm in the airport waiting for my final flight of the day.  I'm only about 12 hours removed from the last few conversations I was having with my fellow Sumiteers.  Every time someone walks toward where I'm sitting and typing away I briefly believe I'm going to look up and see a new friend, coming to have a conversation.  This is what my brain has gotten used to being the norm over the last 4 days, and it's clearly become muscle memory.
 
-## ⚡ Lightning Demos
+## ⚡Lightning Demos
 
 
 ### The Other Guys
