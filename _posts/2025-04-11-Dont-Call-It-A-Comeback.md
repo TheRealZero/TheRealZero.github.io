@@ -23,7 +23,9 @@ So as you can clearly see, it falls to me and me alone to present my findings in
 
 ### The Other Guys
 
-Ahh vendors.  Everyone loves vendors!  They make the world go around, and without them it would be genuinely impossible to put on an event like Summit with any level of acessiblity and success.
+Ahh vendors.  Everyone loves vendors!  They make the world go around, and without them it would be genuinely impossible to put on an event like Summit with any level of acessiblity and success.  
+
+Conferences often have large areas dedicated to a sea of vendors looking to make their pitch and sell their products.
 
 ### The Summit Difference™️
 
