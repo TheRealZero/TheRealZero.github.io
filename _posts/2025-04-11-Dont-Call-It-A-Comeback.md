@@ -1,6 +1,6 @@
 # Don't Call it a Conference, It's Been Here for Years
 
-This week I had the great pleasure of attending the `2025 PowerShell and DevOPs Global Summit` in Bellevue, Washington.
+This week I had the great pleasure of attending the `2025 PowerShell and DevOps Global Summit` in Bellevue, Washington.
 
 This is a conference that spans 4 days and brings speakers and attendees in from all over for talks and presentations that include everything from face-melting 4 hour deep dives to life-changing 25 minute sessions.
 
@@ -24,7 +24,7 @@ So as you can clearly see, it falls to me and me alone to present my findings in
 
 ### The Other Guys
 
-Ahh vendors.  Everyone loves vendors!  They make the world go around, and without them it would be genuinely impossible to put on an event like Summit with any level of acessiblity and success.  
+Ahh vendors.  Everyone loves vendors!  They make the world go around, and without them it would be genuinely impossible to put on an event like Summit with any level of accessability and success.  
 
 Conferences often have large areas dedicated to a sea of vendors looking to make their pitch and sell their products.
 
@@ -64,11 +64,11 @@ At some other conferences, you're attending with many other people who are also 
 
 Slack.  The hotel lobby.  The hallway.  The meals.
 
-You're not just here at the same time as your fellow sumiteers, you're experiencing Summit WITH them.
+You're not just here at the same time as your fellow Sumiteers, you're experiencing Summit WITH them.
 
 Whether it's helpful and inclusive group chat on slack, or just the many organic opportunities for folks to make room for others or invite them to join in on what they're doing, you'll no doubt walk away with more new friendships than you can shake a stick at.
 
-To illustrate the feeling, i'll describe to you now the context in which I write this post.
+To illustrate the feeling, I'll describe to you now the context in which I write this post.
 
 I'm in the airport waiting for my final flight of the day.  I'm only about 12 hours removed from the last few conversations I was having with my fellow Sumiteers.  Every time someone walks toward where I'm sitting and typing away I briefly believe I'm going to look up and see a new friend, coming to have a conversation.  This is what my brain has gotten used to being the norm over the last 4 days, and it's clearly become muscle memory.
 
@@ -77,7 +77,7 @@ I'm in the airport waiting for my final flight of the day.  I'm only about 12 ho
 
 ### The Other Guys
 
-You attend a conference, you listen to the talks, soak up the knowlege, then go home.
+You attend a conference, you listen to the talks, soak up the knowledge, then go home.
 
 ### The Summit Difference™️
 
@@ -88,31 +88,31 @@ Lightning Demos are presentations that take place in the main room in front of t
 ## 😁 My Experience
 
 
-If you'll endulge me for a moment, I'd like to help drive this home by telling you how the experience and the people of Summit had an effect on me this week.
+If you'll indulge me for a moment, I'd like to help drive this home by telling you how the experience and the people of Summit had an effect on me this week.
 
 ### The People
 
 I.  Met.  So.  Many.  Friends.
 
-It's more than a quantity thing however.  I've met people this week with whom I had an instant connection with.  People who are so genuine, and live their authentic selves out loud, so loud, that you can't help but feel like you've known them for years after day 2.
+It's more than a quantity thing however.  I've met people this week with whom I had an instant connection.  People who are so genuine, and live their authentic selves out loud, so loud, that you can't help but feel like you've known them for years after only day 2.
 
 I'd like to shout out some folks, and this is by no means an exhaustive list.  I don't mean to intentionally leave anyone out, but this post could go on for days if I don't draw a line somewhere.
 
 Just know I love you all. ❤️
 
-`Steven Judd` - If you don't know Steven Judd, you won't need anyone to point him out too you in the room.  You'll know.  Steven is a man with a heart as big as his flava-flav-esque pwsh necklace, and a personality nearly as bright.  He's the kind of person who does anything to make people feel welcome, even if he spreads StickerPox where ever he goes.  I'm so happy I met you Steve.
+`Steven Judd` - If you don't know Steven Judd, you won't need anyone to point him out too you in the room.  You'll know.  Steven is a man with a heart as big as his flavor-flav-esque pwsh necklace, and a personality nearly as bright.  He's the kind of person who does anything to make people feel welcome, even if he spreads StickerPox where ever he goes.  I'm so happy I met you Steve.
 
-`Andrew Pla` - You don't need me to tell you about Andrew Pla, he's someone who lives his authentic self in the room and on the podcast radio waves.  His life purpose is to amplify others and encourage their growth.  He could go without eating for months and would sustain himself solely on the act of helping others rise.  He's the real deal, and I knew before I even stepped foot on a plane that we were going to hit it off.  Thank you for making my week Andrew.
+`Andrew Pla` - You don't need me to tell you about Andrew Pla, he's someone who lives his authentic self in the room and on the podcast radio waves.  His life's purpose is to amplify others and encourage their growth.  He could go without eating for months and would sustain himself solely on the act of helping others rise.  He's the real deal, and I knew before I even stepped foot on a plane that we were going to hit it off.  Thank you for making my week Andrew.
 
-`The West Monroe 3` - Frank Lesniak Danny Stutz and Blake Cherry, are three of the smartest and passionate members of the PowerShell community, and they are a triple threat since they all work for the same company.  I soaked up their talks and enjoyed every conversation I had with them.  I can't wait to see what else you guys create, and thank you for being so welcoming.
+`The West Monroe 3` - Frank Lesniak, Danny Stutz and Blake Cherry, are three of the smartest and most passionate members of the PowerShell community, and they are a triple threat since they all work for the same company.  I soaked up their talks and enjoyed every conversation I had with them.  I can't wait to see what else you guys create, and thank you for being so welcoming.
 
 Legends like `Jeffrey Snover`, `Jeff Hicks` and `Don Gannon-Jones` shared their stories and their insights, signed books and were happy to make time for me to tell them my stories.  Thank you for making time for me and so many of us, for so many years.
 
-`Jason Helmick` was so kind, and immediately gravitated to anyone he knew was a first-time summiteer.  He suggested we do Lightning Demos and showed genuine interest in what I wanted to show off.  Thank you for making me feel like a rockstart and giving me such positive feedback about my demo presentation.  It's been part of the fuel that is driving me head-first into more community involvment.
+`Jason Helmick` was so kind, and immediately gravitated to anyone he knew was a first-time Sumiteer.  He suggested we do Lightning Demos and showed genuine interest in what I wanted to show off.  Thank you for making me feel like a rock star and giving me such positive feedback about my demo presentation.  It's been part of the fuel that is driving me head-first into more community involvement.
 
 PowerShell all-stars like `Justin Grote`, `Ben Reader` put on excellent, fascinating talks with their own signature brands of humour and personality during the day.  In the evening we played card games with plenty of (healthy) aggressive shouting and shared stories over dinner.  You guys shine, thank you for bringing me close enough to get a tan.
 
-And too everyone I made a connection with this weekend, `Asmar`, `Christian`, `Ben`, `Hailey`, `Cory`, `Gilbert`, `Devon`, `Kevin`, `James` and countless others, thank you for being a friend.  I can't wait to continue to foster our friendships and hopefully see you at future Summits!
+And to everyone I made a connection with this weekend, `Asmar`, `Christian`, `Ben`, `Hailey`, `Cory`, `Gilbert`, `Devon`, `Kevin`, `James` and countless others, thank you for being a friend.  I can't wait to continue to foster our friendships and hopefully see you at future Summits!
 
 
 ## Exciting Conclusion
