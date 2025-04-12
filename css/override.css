@@ -156,8 +156,5 @@ img {
 }
 
 .site-title, .site-title:visited {
-    font-size: 2.5em;
     color: var(--link-color);
-    text-align: center;
-    margin-bottom: 1rem;
 }
