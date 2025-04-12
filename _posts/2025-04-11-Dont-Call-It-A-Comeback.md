@@ -11,14 +11,14 @@ So, why?
 
 I feel uniquely qualified to dive in and give you an answer with an LLM level of confidence for the following reasons:
 
-- Number of Summits attended: 1
+- Number of Summits attended:           1
 - Number of other conferences attended: 0
 - Number of conferences ORGANIZED: also 0
 - Number of opinions I'd like you to stop and listen to until I get bored: 32767
 
-So as you can clearly see, it falls to me and me alone to present my findings in short essay format.  Come along with me.
+So as you can clearly see, it falls to me and me alone to present my findings in short essay format.  Come along with me. 
 
-## Vendors
+## 🏪 Vendors
 
 
 ### The Other Guys
@@ -31,7 +31,7 @@ You won't find a lot of vendors at Summit.  A few carefully selected vendors hav
 
 Overall they are given a respectable amount of stage time to make their pitch for bettering your life, but for the most part they are simply there experiencing summit right along side us.
 
-## Attendees
+## 😎 Attendees
 
 
 ### The Other Guys
@@ -50,7 +50,7 @@ It's not just the presenters either, your fellow attendees are out in the world 
 
 You can learn so much at Summit, in a way that just doesn't scale with large crowds.
 
-## It's not a conference, it's an experience.
+## 🎢 It's not a conference, it's an experience.
 
 
 ### The Other Guys
@@ -69,7 +69,7 @@ To illustrate the feeling, i'll describe to you now the context in which I write
 
 I'm in the airport waiting for my final flight of the day.  I'm only about 12 hours removed from the last few conversations I was having with my fellow Sumiteers.  Every time someone walks toward where I'm sitting and typing away I briefly believe I'm going to look up and see a new friend, coming to have a conversation.  This is what my brain has gotten used to being the norm over the last 4 days, and it's clearly become muscle memory.
 
-## Lightning Demos
+## ⚡ Lightning Demos
 
 
 ### The Other Guys
@@ -82,7 +82,7 @@ How many conferences have you attended that give you, the attendee, a chance to 
 Lightning Demos are presentations that take place in the main room in front of the whole conference audience.  You can sign up before hand or once you arrive (as long as there is still room) and you'll be given 5-7 minutes to showcase something cool you've created.  These demos aren't recorded and the entire room is very encouraging.  It's a fantastic showcase of the talent in our community.
 
 
-## My Experience
+## 😁 My Experience
 
 
 If you'll endulge me for a moment, I'd like to help drive this home by telling you how the experience and the people of Summit had an effect on me this week.
@@ -119,4 +119,4 @@ Call it a Global Summit.
 Call it a game-changer.
 Call it an experience.  
 
-But don't call it a conference.
+`But don't call it a conference.`
