@@ -33,7 +33,7 @@ plugins:
   - jekyll-sitemap
 
 titles_from_headings:
-  strip_title: true
+  strip_title: false
   collections: true
 
 defaults:
