@@ -5,7 +5,22 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <code>
+    ___ _   _               _     _         _                  
+    |_ _| |_( )___    __ _  | |__ (_)_ __ __| |                 
+     | || __|// __|  / _` | | '_ \| | '__/ _` |                 
+     | || |_  \__ \ | (_| | | |_) | | | | (_| |_                
+    |___|\__| |___/  \__,_| |_.__/|_|_|  \__,_( )               
+         (_) |_( )___    __ _   _ __ | | __ _ |/__   ___        
+         | | __|// __|  / _` | | '_ \| |/ _` | '_ \ / _ \       
+         | | |_  \__ \ | (_| | | |_) | | (_| | | | |  __/_      
+         |_|\__| |___/  \__,_| | .__/|_|\__,_|_| |_|\___( )     
+               _ _   _         |_|     ____  _     ___  |/___ _ 
+              (_) |_( )___     / \    | __ )| |   / _ \ / ___| |
+              | | __|// __|   / _ \   |  _ \| |  | | | | |  _| |
+              | | |_  \__ \  / ___ \  | |_) | |__| |_| | |_| |_|
+              |_|\__| |___/ /_/   \_\ |____/|_____\___/ \____(_)
+              </code>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
