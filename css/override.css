@@ -1,50 +1,156 @@
 hr {
-  margin-top: 30px;
-  margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
 }
 
 /* Post navigation links */
 .post_navi {
-  display: flex;
+    display: flex;
 }
 
 .post_navi-label {
-  font-size: 0.8em;
-  opacity: 0.5;
+    font-size: 0.8em;
+    opacity: 0.5;
 }
 
 .post_navi .post_navi-item {
-  padding: 0 2.2em;
-  width: 50%;
-  position: relative;
-  color: inherit !important;
+    padding: 0 2.2em;
+    width: 50%;
+    position: relative;
+    color: inherit !important;
 }
 
 .post_navi .nav_prev {
-  text-align: left;
+    text-align: left;
 }
 
 .post_navi .nav_next {
-  text-align: right;
+    text-align: right;
 }
 
 .post_navi .nav_prev .post_navi-arrow {
-  left: 0;
+    left: 0;
 }
 
 .post_navi .nav_next .post_navi-arrow {
-  right: 0;
+    right: 0;
 }
 
 .post_navi .post_navi-arrow {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 2.5em;
-  opacity: 0.3;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 2.5em;
+    opacity: 0.3;
 }
 
 .code {
     padding: 1px 5px;
     line-height: 17px
+}
+
+/* dark-mode.css */
+/* Base theme colors */
+:root {
+    --background-color: #0a0a23;
+    /* Dark purple-black */
+    --text-color: #e0e0f0;
+    /* Soft white */
+    --link-color: #38ff88;
+    /* Neon green */
+    --accent-color: #0078d7;
+    /* PowerShell blue */
+    --highlight-color: #6a0dad;
+    /* Deep purple */
+    --code-bg: #1e1e3f;
+    /* Dark purple for code */
+    --border-color: #2a2a4a;
+}
+
+/* General reset */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 2rem;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--accent-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--accent-color);
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+code,
+pre {
+    background-color: var(--code-bg);
+    color: #d4d4ff;
+    font-family: Consolas, 'Courier New', monospace;
+    padding: 0.2em 0.4em;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    padding: 1em;
+    border: 1px solid var(--border-color);
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid var(--highlight-color);
+    padding-left: 1em;
+    color: #cfcfea;
+    margin: 1em 0;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 2rem;
+}
+
+th,
+td {
+    border: 1px solid var(--border-color);
+    padding: 0.5em 1em;
+    text-align: left;
+}
+
+th {
+    background-color: var(--highlight-color);
+    color: #ffffff;
+}
+
+/* Horizontal Rule */
+hr {
+    border: 0;
+    height: 1px;
+    background: var(--border-color);
+    margin: 2rem 0;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
 }
