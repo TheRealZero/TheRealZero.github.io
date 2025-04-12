@@ -18,7 +18,7 @@ github_username: "TheRealZero"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-Wolf480pl/neon-jekyll-theme
+remote_theme: Wolf480pl/neon-jekyll-theme
 
 rss: rss
 
