@@ -19,7 +19,8 @@ bluesky_username: lucasallman
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: "jekyll/minima@1e8a445"
+theme: "minima"
+
 
 
 rss: rss
