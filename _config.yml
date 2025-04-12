@@ -18,7 +18,7 @@ github_username: "TheRealZero"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-remote_theme: zivong/jekyll-theme-hamilton
+remote_theme: "tareqdandachi/jekyll-shell-theme"
 
 rss: rss
 
