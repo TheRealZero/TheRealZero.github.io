@@ -103,7 +103,7 @@ Just know I love you all. ❤️
 
 `The West Monroe 3` - Frank Lesniak Danny Stutz and Blake Cherry, are three of the smartest and passionate members of the PowerShell community, and they are a triple threat since they all work for the same company.  I soaked up their talks and enjoyed every conversation I had with them.  I can't wait to see what else you guys create, and thank you for being so welcoming.
 
-Legends like `Jeffrey Snover` and `Don Gannon-Jones` shared their stories and their insights, and were happy to make time for me to tell them my stories.  Thank you for making time for me and so many of us, for so many years.
+Legends like `Jeffrey Snover`, `Jeff Hicks` and `Don Gannon-Jones` shared their stories and their insights, signed books and were happy to make time for me to tell them my stories.  Thank you for making time for me and so many of us, for so many years.
 
 `Jason Helmick` was so kind, and immediately gravitated to anyone he knew was a first-time summiteer.  He suggested we do Lightning Demos and showed genuine interest in what I wanted to show off.  Thank you for making me feel like a rockstart and giving me such positive feedback about my demo presentation.  It's been part of the fuel that is driving me head-first into more community involvment.
 
@@ -119,4 +119,4 @@ Call it a Global Summit.
 Call it a game-changer. 
 Call it an experience.  
 
-`But don't call it a conference.`
+**But don't call it a conference.**
