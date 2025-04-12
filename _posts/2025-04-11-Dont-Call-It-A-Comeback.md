@@ -58,7 +58,7 @@ You can learn so much at Summit, in a way that just doesn't scale with large cro
 
 ### The Other Guys
 
-At some other conferences, you're attending with may other people who are attending.
+At some other conferences, you're attending with many other people who are also attending.  You are all there at the same time.
 
 ### The Summit Difference™️
 
