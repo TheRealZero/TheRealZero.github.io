@@ -20,6 +20,7 @@ So as you can clearly see, it falls to me and me alone to present my findings in
 
 ## Vendors
 
+
 ### The Other Guys
 
 Ahh vendors.  Everyone loves vendors!  They make the world go around, and without them it would be genuinely impossible to put on an event like Summit with any level of acessiblity and success.
@@ -31,6 +32,7 @@ You won't find a lot of vendors at Summit.  A few carefully selected vendors hav
 Overall they are given a respectable amount of stage time to make their pitch for bettering your life, but for the most part they are simply there experiencing summit right along side us.
 
 ## Attendees
+
 
 ### The Other Guys
 
@@ -50,6 +52,7 @@ You can learn so much at Summit, in a way that just doesn't scale with large cro
 
 ## It's not a conference, it's an experience.
 
+
 ### The Other Guys
 
 At some other conferences, you're attending with may other people who are attending.
@@ -68,17 +71,19 @@ I'm in the airport waiting for my final flight of the day.  I'm only about 12 ho
 
 ## Lightning Demos
 
+
 ### The Other Guys
 
 You attend a conference, you listen to the talks, soak up the knowlege, then go home.
 
-## The Summit Difference™️
+### The Summit Difference™️
 
 How many conferences have you attended that give you, the attendee, a chance to present?  Enter Lightning Demos.
 Lightning Demos are presentations that take place in the main room in front of the whole conference audience.  You can sign up before hand or once you arrive (as long as there is still room) and you'll be given 5-7 minutes to showcase something cool you've created.  These demos aren't recorded and the entire room is very encouraging.  It's a fantastic showcase of the talent in our community.
 
 
 ## My Experience
+
 
 If you'll endulge me for a moment, I'd like to help drive this home by telling you how the experience and the people of Summit had an effect on me this week.
 
@@ -108,6 +113,7 @@ And too everyone I made a connection with this weekend, `Asmar`, `Christian`, `B
 
 
 ## Exciting Conclusion
+
 
 Call it a Global Summit.    
 Call it a game-changer.
