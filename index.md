@@ -1,1 +1,1 @@
-![It's a bird, it's a plane, it's A BLOG!](images/brand/Its_A_Blog--square-with-text.png)
+![It's a bird, it's a plane, it's A BLOG!](images/brand/Its_A_Blog-400x409-square-with-text.png)
