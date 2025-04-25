@@ -55,7 +55,7 @@ Get-Help about_Pipelines -ShowWindow
 ```
 It will look like this: 
 
-<img src="../images/posts/2025-04-25/Get-Help-ShowWindow.png"/>
+<img src="/images/posts/2025-04-25/Get-Help-ShowWindow.png"/>
 
 # When You Don't Know What You Don't Know
 
@@ -67,7 +67,7 @@ Get-Help about_*
 ```
 ...**but don't press Enter**, instead press `Ctrl + Space` to see a list of all the available about_ topics.  
 
-<img src="../images/posts/2025-04-25/about_topics_list.png"/>
+<img src="/images/posts/2025-04-25/about_topics_list.png"/>
 
 ## Okay Let's Talk Pipelines
 
