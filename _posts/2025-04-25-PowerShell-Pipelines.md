@@ -1,18 +1,18 @@
 I recently participated in PowerShell Wednesday on the PDQ Discord server, and the topic was pipelines.  I prepared a few notes in preparation and I thought it might be a good idea to share them here. I hope you find them useful!
 
 
-# Pipelines and the Objects Who Love Them
+## Pipelines and the Objects Who Love Them
 
 Pipelines are the life force of PowerShell.  Pipelines allow you to take the output of one command and use it as the input for another command.
 
 It's like a factory production line, objects are passed from one command to the next, each command taking action on the objects it receives, and passing the results down the line.
 
-## RTFM
+# RTFM
 
 When in doubt, RTFM: Read The Friendly Manual.  
 The official Microsoft documentation can be found here: [about_Pipelines](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_pipelines?view=powershell-7.5)
 
-## Learning Where You Are With Get-Help
+# Learning Where You Are With Get-Help
 
 🚨Useful tip alert!🚨
 
@@ -44,7 +44,7 @@ Update-Help -Force -ErrorAction SilentlyContinue
 Note that this will update the help files for all modules, not just the ones you are using.  This.....can take a while.
 
 But the knowledge you'll gain is worth every second!  Plus you can just do this in another terminal window.
-## The `-ShowWindow` Parameter
+# The `-ShowWindow` Parameter
 
 *Bonus points*:  You can use the `-ShowWindow` parameter to open the help file in a new window, so you can continue to read it while you work in the terminal.
 
@@ -57,7 +57,7 @@ It will look like this:
 
 <img src="../images/posts/2025-04-25/Get-Help-ShowWindow.png"/>
 
-## When You Don't Know What You Don't Know
+# When You Don't Know What You Don't Know
 
 *Bonus Bonus Points*:
 If you have all your help files updated and ready to go, you can type:
@@ -69,25 +69,25 @@ Get-Help about_*
 
 <img src="../images/posts/2025-04-25/about_topics_list.png"/>
 
-# Okay Let's Talk Pipelines
+## Okay Let's Talk Pipelines
 
 **Chaining commands together** in PowerShell is where the rubber meets the road.  It allows you to combine the tools given to you in many ways.  Later on in your PowerShell journey it will also enable you to do the same with the tools you create.
 
 Since PowerShell is built on the idea of **outputting objects**, the pipeline is a very powerful tool and you can use it to do some pretty complex things without a very complex development process.
 
-## The Pipe
+# The Pipe
 
 The pipe is the `|` character.
 
 When you add a pipe to the end of a command, the output of the command will be given to the next command as input.
 
-## Input and Output
+# Input and Output
 
 `Input`     If you've ever used a PowerShell command, any parameter that you've passed to the command is input.
 
 `Output`    When the command finishes running, the result of the command is output.
 
-## Let's Look at an Example
+# Let's Look at an Example
 
 We'll start with the `Get-Service` command, which returns a list of all the services on your computer.
 
@@ -129,7 +129,7 @@ We took the output of the `Get-Service` command and used it as input for the `St
 Now the fax service is running, and I can receive my faxes again!
 
 
-# Don't Let PowerShell Out-Smart You
+## Don't Let PowerShell Out-Smart You
 
 Sometimes a command takes a simple string as input, yet piping an entire object to the command will work just fine too.
 
@@ -140,7 +140,7 @@ It's because PowerShell is `SMART`
 
 I find this can be a bit of a sticking point, and a quick peek at a more advanced topic will help you understand better.
 
-## Parameter Binding
+# Parameter Binding
 
 It's known as [Parameter Binding](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_parameter_binding?view=powershell-7.5)  
 It's also known as `Writing Good Reusable Code`
@@ -183,7 +183,7 @@ This means that not only will an object with a `Name` property work if passed in
 
 We passed in a string, and simply because string is the data type the command is looking for (and it accepts pipline input `ByValue`), it will work just fine.
 
-# Let's Recap
+## Let's Recap
 
 * The pipe is the `|` character
 * The pipe takes the output of one command and uses it as the input for the next command
@@ -193,9 +193,9 @@ We passed in a string, and simply because string is the data type the command is
 
 With that in mind, let's take a look at some examples of how to use the pipeline in PowerShell.
 
-# Other Examples of Using the Pipeline in PowerShell
+## Other Examples of Using the Pipeline in PowerShell
 
-## Where-Object
+# Where-Object
 
 `Where-Object` will take objects as input and only let the objects that match certain criteria continue on through the pipeline.
 
@@ -203,7 +203,7 @@ This command will get all the services on your computer, and only let the ones t
 
 `Get-Service | Where-Object Status -eq 'Running'`
 
-## Select-Object
+# Select-Object
 
 `Select-Object` lets all the objects continue on through the pipeline, but only lets certain properties of the objects continue on through the pipeline.
 
@@ -215,13 +215,13 @@ This command will get all the services on your computer, and only let the ones t
 
 It can do a lot more than that, checkout 
 
-### Sort-Object
+# Sort-Object
 `Sort-Object` will take the objects and sort them based on the property you specify.  You can do this in ascending or descending order.
 
 `Get-Service | Sort-Object -Property DisplayName -Descending `
 
 
-### Altogether Now!
+# Altogether Now!
 
 While these commands function on their own, we can use the pipeline to combine them to get the desired output.
 
@@ -232,10 +232,10 @@ This command will get all the services on your computer, filter them down to onl
 
 # ForEach-Object
 
-The foeach-object command is for creating **a logical loop**.  When you pipe objects into the ForEach-Object command, it will **perform the code in the script block once per object**.  This is useful for when you have a command that doesn't accept pipeline input.
+The ForEach-Object command is for creating **a logical loop**.  When you pipe objects into the ForEach-Object command, it will **perform the code in the script block once per object**.  This is useful for when you have a command that doesn't accept pipeline input.
 
 
-### The PokeDexAPI Module
+# The PokeDexAPI Module
 
 Let's take a look at a typical corporate IT example:    
 The PokeDexAPI module is a wrapper for interacting with the PokeDexAPI.  As you can imagine, you can utilize this module to get information about everything related to Pokemon, a common need in corporate IT.
